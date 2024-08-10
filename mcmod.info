@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "Taunahi",
+    "name": "Taunahi",
+    "description": "The most extensive collection of scripts for Hypixel Skyblock",
+    "version": "3.0.7",
+    "mcversion": "1.8.9",
+    "url": "https://www.taunahi.net/",
+    "authorList": ["Alex"],
+    "credits": "Thank you for your support Taunahi",
+    "logoFile": "assets/logo.png"
+  }
+]
